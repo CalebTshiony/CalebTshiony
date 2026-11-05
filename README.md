@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I am A student at Worcester State University.
+## I am a Computer Science major with a minor in Business Administration
 <!--
 **CalebTshiony/CalebTshiony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
