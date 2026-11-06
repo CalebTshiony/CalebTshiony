@@ -1,4 +1,4 @@
-## 💫Hi there, I'm Caleb 👋
+# 💫Hi there, I'm Caleb 👋
 
 🧑‍🎓I am a second-year student at Worcester State University<br>🖥️I am a Computer Science major with a minor in Business Administration<br>💪I love programming, drawing, and making pixel art<br>🤖I am currently learning Blender<br>✨My next goal is to make a game that will help me do certain tasks
 
